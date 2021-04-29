@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LogAdapter.iml" filepath="$PROJECT_DIR$/LogAdapter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/log-adapter/log-adapter.iml" filepath="$PROJECT_DIR$/log-adapter/log-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LogAdapter.iml" filepath="$PROJECT_DIR$/LogAdapter.iml" group="LogAdapter" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="LogAdapter/app" />
+      <module fileurl="file://$PROJECT_DIR$/log-adapter/log-adapter.iml" filepath="$PROJECT_DIR$/log-adapter/log-adapter.iml" group="LogAdapter/log-adapter" />
     </modules>
   </component>
 </project>
